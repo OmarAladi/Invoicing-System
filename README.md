@@ -1,7 +1,7 @@
 # Invoice Processor
 
-A modern end-to-end system for automatic invoice data extraction using state-of-the-art LLM (Gemini) and a friendly web interface.  
-This solution enables you to upload a scanned invoice image and instantly obtain structured, export-ready data in table format.
+* A modern end-to-end system for automatic invoice data extraction using state-of-the-art LLM (Gemini) and a friendly web interface.  
+* This solution enables you to upload a scanned invoice image and instantly obtain structured, export-ready data in table format.
 
 ---
 
@@ -58,8 +58,8 @@ This solution enables you to upload a scanned invoice image and instantly obtain
 ### 1. Clone the repository
 
 ```bash
-git clone [repository_link]
-cd [project_folder]
+git clone https://github.com/OmarAladi/Invoicing-System.git
+cd Invoicing-System
 ```
 
 ### 2. Create and activate a Python virtual environment
